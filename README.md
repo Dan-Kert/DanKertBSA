@@ -9,7 +9,6 @@ The bot spawns, finds bushes, hides, and attacks enemies automatically. It suppo
 ## Bot features
 - **Automated Hideout Finding**: Locates and hides in the nearest bush
 - **Smart Combat**: Attacks enemies within attack range
-- **Map Awareness**: Predicts storm direction
 - **Cross-Platform**: Works on Windows, Linux, macOS with ADB
 - **Intelligent Movement**: Adapts movement based on brawler stats and map layout
 
