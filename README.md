@@ -1,5 +1,5 @@
 # DanKertBSA - (Brawl Stars Automation)
-⚠️ **DISCLAIMER**  ****this project does not guarantee the best quality or reliability of the cup set or victories****  ⚠️
+⚠️**DISCLAIMER**  ****this project does not guarantee the best quality or reliability of the cup set or victories****⚠️
 
 ## Info
 **DanKertBSA is a bot for Brawl Stars that automates Showdown matches using ADB (Android Debug Bridge) to control physical Android devices.**
