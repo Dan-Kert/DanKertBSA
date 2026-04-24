@@ -10,10 +10,8 @@ The bot spawns, finds bushes, hides, and attacks enemies automatically. It suppo
 - **Automated Hideout Finding**: Locates and hides in the nearest bush
 - **Smart Combat**: Attacks enemies within attack range
 - **Map Awareness**: Predicts storm direction
-- **Power Cube Collection**: Automatically collects power cubes when available
 - **Cross-Platform**: Works on Windows, Linux, macOS with ADB
 - **Intelligent Movement**: Adapts movement based on brawler stats and map layout
-- **Gadget & Super Management**: Uses gadgets and super attacks strategically
 
 ## Requirements
 * **Android Device**: With USB Debugging enabled
