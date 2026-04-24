@@ -4,6 +4,8 @@
 ## Info
 **DanKertBSA is a bot for Brawl Stars that automates Showdown matches using ADB (Android Debug Bridge) to control physical Android devices.**
 
+![Screen 1](UwU/image.png)
+
 The bot spawns, finds bushes, hides, and attacks enemies automatically. It supports all platforms (Windows, Linux, macOS) and works with real Android devices.
 
 ## Bot features
